@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+google-api-python-client==2.86.0
+google-auth-oauthlib==0.8.0
+google-auth-httplib2==0.1.0
+python-dotenv==0.19.2
+nest_asyncio
+aiohttp
+telethon==1.32.1

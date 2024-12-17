@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Telegram session
+*.session
+
+# YouTube credentials
+token.json
+client_secrets.json
+
+# IDE
+.idea/
+
+# Videos directory
+videos/

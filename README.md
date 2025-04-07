@@ -9,7 +9,7 @@ This bot allows you to download YouTube videos in both video and audio formats.
 ### 👨‍💻 Developers
 
 - [Jamal Aldeen Khalil](https://github.com/jamal-kh)
-- [Mohammed Abu Alhuda]([https://example.com/mohammed](https://github.com/XMhamdX))
+- [Mohammed Abu Alhuda](https://github.com/XMhamdX)
 
 ---
 
